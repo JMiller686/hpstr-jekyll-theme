@@ -1,6 +1,6 @@
 title:            JM-Designs
 description:      Professional web design and development based in Chicago 
-disqus_shortname: hpstrtheme
+disqus_shortname: JM-Designs
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -14,9 +14,9 @@ owner:
   bio:            "I am a professional web developer and designer from Chicago, IL"
   email:          jmiller686@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/JoshMiller686
+  twitter:        JoshMiller686
   facebook:       
-  github:         https://github.com/JMiller686
+  github:         JMiller686
   stackexchange:  
   linkedin:       https://www.linkedin.com/profile/view?id=151381956
   instagram:      

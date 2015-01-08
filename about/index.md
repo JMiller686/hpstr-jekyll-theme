@@ -2,11 +2,10 @@
 layout: page
 title: Josh Miller
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: 5.jpg
+  
 comments: false
-modified: 2014-12-24
+
 ---
 
 I am a professional web developer and designer based in Chicago, IL. I enjoy designing and creating user friendly websites built according to web standards.   
